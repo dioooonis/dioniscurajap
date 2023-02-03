@@ -1,13 +1,15 @@
-package com.example.demotoload;
+package com.java.project.Project1;
+
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemotoloadApplication {
+public class JaPecommerceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemotoloadApplication.class, args);
+		SpringApplication.run(JaPecommerceApplication.class, args);
 	}
 
 }
